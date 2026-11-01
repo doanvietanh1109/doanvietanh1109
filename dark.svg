@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="945" viewBox="0 0 1120 945" role="img" aria-label="VANHDOANDEV GitHub profile green dark">
+<defs>
+ <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08150F"/><stop offset="1" stop-color="#10291B"/></linearGradient>
+ <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#286445" opacity=".35"/></pattern>
+</defs>
+<rect width="1120" height="945" rx="18" fill="url(#surface)"/>
+<rect x="0" y="0" width="1120" height="945" rx="18" fill="url(#dots)" opacity=".35"/>
+<rect x="1" y="1" width="1118" height="943" rx="17" stroke="#286445" stroke-width="2" fill="none"/>
+<rect x="1" y="1" width="1118" height="62" rx="17" fill="#0C2116" stroke="#286445"/>
+<rect x="1" y="48" width="1118" height="14" fill="#0C2116"/>
+<circle cx="37" cy="32" r="7" fill="#FF6C75"/><circle cx="61" cy="32" r="7" fill="#FFCE62"/><circle cx="85" cy="32" r="7" fill="#62F5A0"/>
+<text x="118" y="39" font-family="Menlo, Monaco, monospace" font-size="16" fill="#98C8AA" font-weight="normal">VANHDOANDEV / HOME</text>
+<text x="883" y="39" font-family="Menlo, Monaco, monospace" font-size="16" fill="#62F5A0" font-weight="normal">ONLINE / READY</text>
+<text x="43" y="106" font-family="Menlo, Monaco, monospace" font-size="19" fill="#62F5A0" font-weight="normal">$ whoami</text>
+<text x="43" y="178" font-family="Inter, Arial, sans-serif" font-size="68" fill="#DDFDEA" font-weight="bold" letter-spacing="1">VANHDOANDEV</text>
+<text x="48" y="221" font-family="Menlo, Monaco, monospace" font-size="23" fill="#62F5A0" font-weight="bold" letter-spacing="1">DOAN VIET ANH</text>
+<text x="48" y="252" font-family="Menlo, Monaco, monospace" font-size="18" fill="#98C8AA" font-weight="normal">FULL-STACK DEVELOPER  /  BACKEND ENGINEERING</text>
+<rect x="45" y="273" width="1030" height="3" rx="1" fill="#286445"/>
+<rect x="44" y="302" width="362" height="380" rx="12" fill="#0C2116" stroke="#286445"/>
+<text x="63" y="336" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">[01] / SYSTEM.IDENTITY</text>
+<circle cx="225" cy="483" r="112" fill="#173625" opacity=".45"/>
+<circle cx="225" cy="483" r="87" fill="none" stroke="#62F5A0" opacity=".32" stroke-width="2" stroke-dasharray="5 10"/>
+<circle cx="124" cy="424" r="2" fill="#62F5A0"/>
+<circle cx="314" cy="419" r="3" fill="#62F5A0"/>
+<circle cx="327" cy="510" r="2" fill="#62F5A0"/>
+<circle cx="142" cy="566" r="2" fill="#62F5A0"/>
+<circle cx="251" cy="586" r="3" fill="#62F5A0"/>
+<path d="M181 445 Q181 402 225 402 Q269 402 269 445 L269 508 Q267 534 225 534 Q183 534 181 508 Z" fill="#10291B" stroke="#62F5A0" stroke-width="5"/>
+<rect x="193" y="441" width="64" height="40" rx="17" fill="#173625" stroke="#286445" stroke-width="3"/>
+<rect x="208" y="459" width="9" height="9" rx="3" fill="#62F5A0"/><rect x="234" y="459" width="9" height="9" rx="3" fill="#62F5A0"/>
+<path d="M203 497 Q225 514 247 497" fill="none" stroke="#62F5A0" stroke-width="3" stroke-linecap="round"/>
+<path d="M199 535 L178 555 L182 581 L268 581 L272 555 L251 535" fill="#0C2116" stroke="#62F5A0" stroke-width="4"/>
+<path d="M225 401 L225 380" stroke="#62F5A0" stroke-width="4"/><circle cx="225" cy="374" r="6" fill="#62F5A0"/>
+<text x="87" y="626" font-family="Menlo, Monaco, monospace" font-size="16" fill="#62F5A0" font-weight="bold">&gt; BUILD / LEARN / SHIP_</text>
+<text x="89" y="656" font-family="Menlo, Monaco, monospace" font-size="15" fill="#98C8AA" font-weight="normal">github.com/doanvietanh1109</text>
+<rect x="426" y="302" width="649" height="380" rx="12" fill="#0C2116" stroke="#286445"/>
+<text x="449" y="338" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">[02] / ABOUT.EXE</text>
+<line x1="450" y1="357" x2="1052" y2="357" stroke="#286445" stroke-width="1"/>
+<text x="451" y="396" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">NAME        </text>
+<text x="625" y="396" font-family="Menlo, Monaco, monospace" font-size="17" fill="#DDFDEA" font-weight="normal">Doan Viet Anh</text>
+<text x="451" y="439" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">EDUCATION   </text>
+<text x="625" y="439" font-family="Menlo, Monaco, monospace" font-size="17" fill="#DDFDEA" font-weight="normal">PTIT · Information Technology</text>
+<text x="451" y="482" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">EXPERIENCE  </text>
+<text x="625" y="482" font-family="Menlo, Monaco, monospace" font-size="17" fill="#DDFDEA" font-weight="normal">Viettel Digital Talent / VNPT IT</text>
+<text x="451" y="525" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">RESEARCH    </text>
+<text x="625" y="525" font-family="Menlo, Monaco, monospace" font-size="17" fill="#DDFDEA" font-weight="normal">PTIT NITS Lab</text>
+<text x="451" y="568" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">FOCUS       </text>
+<text x="625" y="568" font-family="Menlo, Monaco, monospace" font-size="17" fill="#DDFDEA" font-weight="normal">Backend / Full-Stack / AI</text>
+<text x="451" y="611" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">LOCATION    </text>
+<text x="625" y="611" font-family="Menlo, Monaco, monospace" font-size="17" fill="#DDFDEA" font-weight="normal">Viet Nam</text>
+<line x1="449" y1="626" x2="1052" y2="626" stroke="#286445" stroke-width="1"/>
+<text x="449" y="656" font-family="Menlo, Monaco, monospace" font-size="16" fill="#FFC77A" font-weight="normal">$ status: open_to_building</text>
+<rect x="44" y="702" width="495" height="176" rx="12" fill="#0C2116" stroke="#286445"/>
+<text x="65" y="737" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">[03] / EXPERIENCE</text>
+<text x="66" y="775" font-family="Inter, Arial, sans-serif" font-size="20" fill="#DDFDEA" font-weight="normal">&gt;  Viettel Digital Talent</text>
+<text x="66" y="812" font-family="Inter, Arial, sans-serif" font-size="20" fill="#DDFDEA" font-weight="normal">&gt;  VNPT Information Technology</text>
+<text x="66" y="849" font-family="Inter, Arial, sans-serif" font-size="20" fill="#DDFDEA" font-weight="normal">&gt;  PTIT NITS Research Lab</text>
+<rect x="559" y="702" width="516" height="176" rx="12" fill="#0C2116" stroke="#286445"/>
+<text x="580" y="737" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">[04] / TOOLKIT + PROJECTS</text>
+<text x="581" y="775" font-family="Inter, Arial, sans-serif" font-size="18" fill="#DDFDEA" font-weight="normal">C++ · Python · JavaScript · TypeScript</text>
+<text x="581" y="809" font-family="Inter, Arial, sans-serif" font-size="18" fill="#DDFDEA" font-weight="normal">React · Node.js · Git · REST APIs</text>
+<text x="581" y="846" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="bold">PORTFOLIO  /  AIC CHALLENGE 2025</text>
+<line x1="44" y1="900" x2="1075" y2="900" stroke="#286445" stroke-width="1"/>
+<text x="44" y="927" font-family="Menlo, Monaco, monospace" font-size="17" fill="#62F5A0" font-weight="normal">vanhdoandev-fe.vercel.app</text>
+<text x="826" y="927" font-family="Menlo, Monaco, monospace" font-size="16" fill="#98C8AA" font-weight="normal">VANHDOANDEV  © 2026</text>
+</svg>

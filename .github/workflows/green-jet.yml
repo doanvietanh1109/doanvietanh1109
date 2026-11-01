@@ -1,0 +1,29 @@
+name: Update Green Contribution Jet
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 1 * * *"
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Generate from actual contribution history
+        env:
+          GH_USERNAME: doanvietanh1109
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-jet.mjs
+      - name: Commit refreshed SVG
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dist/github-jet.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update green contribution jet'
+            git push
+          fi
