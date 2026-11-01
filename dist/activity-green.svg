@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="1100" height="720" viewBox="0 0 1100 720">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop stop-color="#0A1510"/>
+        <stop offset="1" stop-color="#10291C"/>
+      </linearGradient>
+    </defs>
+    <style>
+      text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .big{fill:#F0FFF4;font-weight:700}
+      .label{fill:#9DC1AA}
+      .mint{fill:#6EE7A1}
+    </style>
+    <rect width="1100" height="720" rx="28" fill="#0B1110"/>
+    <text x="45" y="74" font-size="45" class="big">activity</text>
+    <rect x="42" y="112" width="1016" height="220" rx="24"
+      fill="url(#bg)" stroke="#254735" stroke-width="3"/>
+    <line x1="550" y1="149" x2="550" y2="296"
+      stroke="#2C4839" stroke-width="2"/>
+    <path d="M105 151 L112 165 L128 167 L116 178
+      L119 194 L105 186 L91 194 L94 178 L82 167 L98 165 Z"
+      fill="none" stroke="#6EE7A1" stroke-width="3"/>
+    <text x="136" y="177" font-size="29" class="label">stars</text>
+    <path d="M613 153 V181 M613 166 H635 V181
+      M605 153 a8 8 0 1 0 16 0 a8 8 0 1 0 -16 0
+      M627 189 a8 8 0 1 0 16 0 a8 8 0 1 0 -16 0"
+      fill="none" stroke="#6EE7A1" stroke-width="3"/>
+    <text x="644" y="177" font-size="29" class="label">forks</text>
+<text x="85" y="263" class="big" font-size="82">1</text>
+<text x="594" y="263" class="big" font-size="82">0</text>
+<text x="85" y="305" class="label" font-size="22">on 12 public source repos</text>
+<text x="594" y="305" class="label" font-size="22">forks of your public repos</text>
+<rect x="42" y="357" width="1016" height="315" rx="24"
+          fill="url(#bg)" stroke="#254735" stroke-width="3"/>
+        <path d="M82 408 H99 M116 408 H130
+          M99 408 a8 8 0 1 0 16 0 a8 8 0 1 0 -16 0"
+          fill="none" stroke="#6EE7A1" stroke-width="3"/>
+        <text x="136" y="419" font-size="29"
+          class="label">contributions</text>
+<text x="85" y="547" class="big" font-size="82">42</text>
+<text x="85" y="592" class="label" font-size="23">last 12 months</text>
+<path d="M535 601 H1010" stroke="#34513F" stroke-width="2"/>
+<text x="560" y="636" text-anchor="middle" font-size="17" class="label">Dec</text>
+<rect x="587" y="456" width="25" height="143" rx="5" fill="#3B8560"/>
+<text x="599" y="636" text-anchor="middle" font-size="17" class="label">Jan</text>
+<rect x="626" y="595" width="25" height="4" rx="5" fill="#3B8560"/>
+<text x="638" y="636" text-anchor="middle" font-size="17" class="label">Feb</text>
+<rect x="665" y="595" width="25" height="4" rx="5" fill="#3B8560"/>
+<text x="677" y="636" text-anchor="middle" font-size="17" class="label">Mar</text>
+<text x="716" y="636" text-anchor="middle" font-size="17" class="label">Apr</text>
+<text x="755" y="636" text-anchor="middle" font-size="17" class="label">May</text>
+<text x="794" y="636" text-anchor="middle" font-size="17" class="label">Jun</text>
+<text x="833" y="636" text-anchor="middle" font-size="17" class="label">Jul</text>
+<text x="872" y="636" text-anchor="middle" font-size="17" class="label">Aug</text>
+<rect x="899" y="591" width="25" height="8" rx="5" fill="#3B8560"/>
+<text x="911" y="636" text-anchor="middle" font-size="17" class="label">Sep</text>
+<rect x="938" y="586" width="25" height="13" rx="5" fill="#3B8560"/>
+<text x="950" y="636" text-anchor="middle" font-size="17" class="label">Oct</text>
+<rect x="977" y="595" width="25" height="4" rx="5" fill="#86EFAC"/>
+<text x="989" y="636" text-anchor="middle" font-size="17" class="label">Nov</text>
+<text x="83" y="695" font-size="17" class="label">Source: GitHub API - @doanvietanh1109 - refreshed 2026-11-01 UTC</text>
+</svg>
