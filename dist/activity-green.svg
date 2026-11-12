@@ -29,7 +29,7 @@
     <text x="644" y="177" font-size="29" class="label">forks</text>
 <text x="85" y="263" class="big" font-size="82">1</text>
 <text x="594" y="263" class="big" font-size="82">0</text>
-<text x="85" y="305" class="label" font-size="22">on 12 public source repos</text>
+<text x="85" y="305" class="label" font-size="22">on 11 public source repos</text>
 <text x="594" y="305" class="label" font-size="22">forks of your public repos</text>
 <rect x="42" y="357" width="1016" height="315" rx="24"
           fill="url(#bg)" stroke="#254735" stroke-width="3"/>
@@ -38,7 +38,7 @@
           fill="none" stroke="#6EE7A1" stroke-width="3"/>
         <text x="136" y="419" font-size="29"
           class="label">contributions</text>
-<text x="85" y="547" class="big" font-size="82">42</text>
+<text x="85" y="547" class="big" font-size="82">41</text>
 <text x="85" y="592" class="label" font-size="23">last 12 months</text>
 <path d="M535 601 H1010" stroke="#34513F" stroke-width="2"/>
 <text x="560" y="636" text-anchor="middle" font-size="17" class="label">Dec</text>
@@ -57,7 +57,6 @@
 <text x="911" y="636" text-anchor="middle" font-size="17" class="label">Sep</text>
 <rect x="938" y="586" width="25" height="13" rx="5" fill="#3B8560"/>
 <text x="950" y="636" text-anchor="middle" font-size="17" class="label">Oct</text>
-<rect x="977" y="595" width="25" height="4" rx="5" fill="#86EFAC"/>
 <text x="989" y="636" text-anchor="middle" font-size="17" class="label">Nov</text>
-<text x="83" y="695" font-size="17" class="label">Source: GitHub API - @doanvietanh1109 - refreshed 2026-11-11 UTC</text>
+<text x="83" y="695" font-size="17" class="label">Source: GitHub API - @doanvietanh1109 - refreshed 2026-11-12 UTC</text>
 </svg>
